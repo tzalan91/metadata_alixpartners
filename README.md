@@ -4,7 +4,7 @@
 Link: https://metadata.fundacionsadosky.org.ar/competition/20/
 
 ## Target
-Prediction of the success of commercial opportunities of a company of commercialization and installation of air conditioning equipment for large surfaces.
+Prediction of the success of commercial opportunities for a company dedicated to commercialization and installation of air conditioning equipment for large surfaces.
 
 To meet this objective, a classification model is built that learns patterns that have common opportunities that were successful and that differentiates them from those that were not successful.
 
